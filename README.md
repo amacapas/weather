@@ -25,4 +25,4 @@ yarn dev
 
 Check out the demo at [The Weather App](https://weather-beta-nine.vercel.app/).
 
-![Weather Screenshot](https://github.com/amacapas/weather/blob/master/thumb.png?raw=true)
+![Weather Screenshot](/thumb.png?raw=true)
