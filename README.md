@@ -1,6 +1,6 @@
-## Requirements
+## The Weather App
 
-Create an application that displays the weather for all employees who go to deliver parcels around Italy so that they can prepare and dress appropriately.
+An application that displays the weather for all employees who go to deliver parcels around Italy so that they can prepare and dress appropriately.
 
 This web application must be usable from a smartphone and allow you to enter a zip code to see the current weather forecast.
 
@@ -14,12 +14,12 @@ npm run dev
 yarn dev
 ```
 
-## Environment Variable
+## Environment Variables
 
-`API_KEY` - api key from openweathermap
-`IMG_URL` - url of icon of the weather to display
-`WEATHER` - api endpoint to get the weather data
-`ZIPPOTA` - api endpoint to convert zip to coordinates
+`API_KEY` - api key from openweathermap  
+`IMG_URL` - url of icon of the weather to display  
+`WEATHER` - api endpoint to get the weather data  
+`ZIPPOTA` - api endpoint to convert zip to coordinates  
 
 ## Demo
 
